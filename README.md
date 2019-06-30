@@ -8,7 +8,7 @@ Especially, I compared four apis, [native JS date](https://developer.mozilla.org
 
 To me, `dayjs` was the best fit. 
 
-It's api is quite similar to `moment` yet has much smaller size (Gzipped: 2.9K).
+Its api is quite similar to `moment` yet has much smaller size (Gzipped: 2.9K).
 
 And also `dayjs`'s api is immutable (returns new object instead of mutating original like `moment`),
 
